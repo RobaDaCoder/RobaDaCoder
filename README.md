@@ -1,7 +1,7 @@
 # Greetings 🤗
 <br>
 <p align="center" >  
-<img hight="1000" width="800" src="https://github.com/RobaDaCoder/RobaDaCoder/blob/main/kzh%20gif.gif">
+<img hight="1000" width="800" src="https://github.com/RobaDaCoder/RobaDaCoder/blob/main/assets/kzh%20gif.gif">
 </p>
 <br>
 
