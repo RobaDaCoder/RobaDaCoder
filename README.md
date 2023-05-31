@@ -64,11 +64,8 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:trungsanglong@gmail.com">
+<a href="mailto:tngocbao.203@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/trung-le-pham-hoang-5b23bb229/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
@@ -87,7 +84,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/Trunkg0d/github-readme-stats"> 
+  <a href="https://github.com/RobaDaCoder/github-readme-stats"> 
 <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Trunkg0d&&show_icons=true&theme=radical"/>
   </a>
   </p>
