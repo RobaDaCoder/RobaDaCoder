@@ -85,7 +85,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/RobaDaCoder/github-readme-stats"> 
-[![RobaDaCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobaDaCoder)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=RobaDaCoder&show_icons=true&theme=dark#gh-dark-mode-only">
   </a>
   </p>
 
