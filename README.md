@@ -17,11 +17,6 @@
 - ✨ Structured Query Language
 - ✨ Python
 
-### - Hobbies : 
-- ✨ Gamer
-- ✨ Wibu (Otaku)
-- ✨ Swimming
-
 ### - Games that I play :
 <img align="left" src="https://github.com/RobaDaCoder/RobaDaCoder/blob/main/assets/among%20us.png" width="40" hight="40">
 <img align="left" src="https://github.com/RobaDaCoder/RobaDaCoder/blob/main/assets/genshin.png" width="40" hight="40">
@@ -34,7 +29,7 @@
 </br>
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Programming Languages:
 </br>
 
 <p align="center">
@@ -49,7 +44,7 @@
 </p>
 </br>
 
-# Contact Me :
+# Contact :
 
 <p>
  </br>
