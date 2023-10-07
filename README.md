@@ -7,7 +7,7 @@
 
 # About ME 💬 :
 
-### - Scorpio 🦂 boy from Vietname and currently an Artificial Intelligence student in HCMUS.
+### - Currently an Artificial Intelligence student in HCMUS.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/RobaDaCoder/RobaDaCoder/blob/main/assets/heiji%20gif.gif">
 
